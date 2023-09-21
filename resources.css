@@ -1,0 +1,106 @@
+
+body{
+  background-color: #62929e;
+  color: white;
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+h1{
+  display:flex;
+  color:white;
+  font-size: 58px;
+  justify-content:center;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+
+}
+
+h2{
+  display:flex;
+  color: #393d3f;
+  font-size: 30px;
+  justify-content:center;
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+.submit-btn{
+  width: 300px;
+  padding: 5px;
+  margin: 5px auto 25px auto;
+  background: black;
+  border: none;
+  border-radius: 2px;
+  color:white;
+  font-size: 100%;
+}
+
+hover.submit-btn{
+  background-color: white
+}
+
+.links-container{
+  display:flex; 
+  flex-direction: row;
+  justify-content:space-around;  
+  margin-left:50px;
+  margin-right:52px;
+  margin-top:10px;
+}
+
+button {
+  color: white;
+  background-color: #546a7b;
+  border: 1px solid #546a7b;
+  padding: 10px
+  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 23px;
+  margin-top: 30px;
+}
+
+img {
+  object-fit: cover;
+  height:30px;
+  width:30px;
+}
+
+iframe{
+  margin: 40px;
+  object-fit: cover;
+}
+
+.videos{
+  display: flex;
+  justify-content: center;
+}
+
+.lawyers{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+   border: black solid 5px;
+}
+
+.books{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+  border: black solid 5px;
+}
+
+.petition:hover{
+   background-color: #89ABC2;
+   color: #E9E1E1
+}
+
+.shows{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+  border: black solid 5px;
+}

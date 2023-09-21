@@ -1,0 +1,94 @@
+body{
+  background-color: #393d3f;
+}
+
+h1{
+  display:flex;
+  color:white;
+  font-size: 65px;
+  justify-content:center;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+
+}
+
+.submit-btn{
+  width: 300px;
+  padding: 5px;
+  margin: 5px auto 25px auto;
+  background: black;
+  border:none;
+  border-radius: 2px;
+  color:white;
+  font-size: 100%;
+}
+
+.links-container{
+  display:flex; 
+  flex-direction: row;
+  justify-content:space-around;  
+  margin-left:50px;
+  margin-right:52px;
+  margin-top:10px;
+}
+
+button {
+  color: white;
+  background-color: #62929e;
+  border: 1px solid #62929e ;
+  padding: 10px
+  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 23px;
+  margin-top: 30px
+}
+
+.gallery{
+  height: 375px;
+  width: 375px;
+  object-fit: cover;
+  margin: 30px;
+}
+
+.pictures1{
+  display:flex;
+  justify-content: center;
+}
+
+.pictures2{
+  display:flex;
+  justify-content: center;
+}
+
+.pictures3{
+  display:flex;
+  justify-content: center;
+}
+
+.pictures4{
+  display:flex;
+  justify-content: center;
+}
+
+.pictures5{
+  display:flex;
+  justify-content: center;
+}
+
+.petition:hover{
+   background-color: #91D3EB;
+   color: #E9E1E1;
+}
+
+p{
+  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  font-size: 60px;
+  margin: 10px
+}
+
+.paragraph{
+  display: flex;
+  justify-content: center;
+}

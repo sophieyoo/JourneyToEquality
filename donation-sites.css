@@ -1,0 +1,211 @@
+body{
+  background-color: #c6c5b9;
+
+}
+
+h1{
+  display:flex;
+  color:white;
+  font-size: 59px;
+  justify-content:center;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  color: #546a7b;
+  font-size: 19px;
+  font-family: 'Archivo Narrow', sans-serif;
+  margin-top: 40px
+}
+
+.submit-btn{
+  width: 300px;
+  padding: 5px;
+  margin: 5px auto 25px auto;
+  background: black;
+  border: none;
+  border-radius: 2px;
+  color:white;
+  font-size: 100%;
+}
+
+.links-container{
+  display:flex; 
+  flex-direction: row;
+  justify-content:space-around;  
+  margin-left:50px;
+  margin-right:52px;
+  margin-top:10px;
+}
+
+button {
+  color: white;
+  background-color: #000000;
+  border: 1px solid gray;
+  padding: 10px
+  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 23px;
+  margin-top: 30px
+}
+.imagegroup1{
+ display: block;
+ display: flex;
+ justify-content:space-between;
+ flex-direction: row;
+ text-align: center;
+ color: #62929e;
+ font-size: 22px;
+ font-family: 'Archivo Narrow', sans-serif;
+  margin-left:50px;
+ margin-right:50px;
+}
+
+
+.imagegroup2{
+  display: block;
+  display: flex;
+  justify-content:space-between;
+  flex-direction: row;
+  text-align: center;
+  color: #62929e;
+  font-size: 22px;
+  font-family: 'Archivo Narrow', sans-serif;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+.imagegroup3{
+  display: block;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row; 
+  text-align: center;
+  color: #62929e;
+  font-size: 22px;
+  font-family: 'Archivo Narrow', sans-serif;
+   margin-left:50px;
+   margin-right:50px;
+}
+
+.imagegroup4{
+  display: block;
+  display: flex;
+  justify-content:space-between;
+  flex-direction: row;
+  text-align: center;
+  color: #62929e;
+  font-size: 22px;
+  font-family: 'Archivo Narrow', sans-serif;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+.imagegroup5{
+  display: block;
+  display: flex;
+  justify-content:space-between;
+  flex-direction: row;
+  text-align: center;
+  color: #62929e;
+  font-size: 22px;
+  font-family: 'Archivo Narrow', sans-serif;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+img {
+  object-fit: cover;
+  height:300px;
+  width:300px;
+}
+
+.donationImages{
+  display: flex;
+  display: block; 
+  flex-direction: row;
+  justify-content: center;
+  margin: 50px;
+}
+
+.pic1{
+  display:flex; display:block; flex-direction:column; justify-content:center; 
+}
+
+.pic2{
+  display:flex; display:block; flex-direction:column; justify-content:center; 
+}
+
+.pic3{
+  display:flex; display:block; flex-direction:column;
+  justify-content:center; 
+}
+
+.pic4{
+  display:flex; display:block; flex-direction:column;
+  justify-content:center;
+}
+
+.pic5{
+  display:flex; display:block; flex-direction:column;
+  justify-content:center;
+}
+
+.pic6{
+  display:flex; display:block; flex-direction:column;
+  justify-content:center;
+}
+
+.pic7{
+  display:flex; display:block; flex-direction:column;
+  justify-content:center;
+}
+
+.pic8{
+  display:flex; display:block; flex-direction:column;
+  justify-content:center;
+}
+
+.pic9{
+  display:flex; display:block; flex-direction:column;
+  justify-content:center;
+}
+
+.pic10{
+display:flex; display:block; flex-direction:column;
+justify-content:center;
+}
+
+.pic11{
+display:flex; display:block; flex-direction:column;
+justify-content:center;
+}
+
+.pic12{
+display:flex; display:block; flex-direction:column;
+justify-content:center;
+}
+
+.pic13{
+display:flex; display:block; flex-direction:column;
+justify-content:center;
+}
+
+.pic14{
+display:flex; display:block; flex-direction:column;
+justify-content:center;
+}
+
+.pic15{
+display:flex; display:block; flex-direction:column;
+justify-content:center;
+}
+
+.petition:hover{
+    background-color: #727272;
+   color: #E9E1E1;
+}
